@@ -1,4 +1,4 @@
-# Family secret recipes
+# Family clan recipes
 
 
 set of recipes as given by my grandma.
